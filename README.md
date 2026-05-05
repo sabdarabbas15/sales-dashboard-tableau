@@ -1,6 +1,7 @@
 # sales-dashboard-tableau
 Sales Performance Dashboard using Tableau
 # Sales Performance Dashboard (Tableau)
+##TRACK MY PROJECT LIVE: https://public.tableau.com/views/Sales_Performance_Dashboard_Tableau2/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📊 Project Overview
 This project analyzes retail sales data to identify trends, profitability issues, and business opportunities.
